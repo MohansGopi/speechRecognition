@@ -6,12 +6,13 @@ I made voice recognition system for my college mini project. I just choosed to m
 This type of speech recognition system is very simple one and also most useful for non-orgin english speakers. And the other language people also can easily use this system, because the simpleness of this.
 
 To use this speech recognition system you have instal all this python packages.
-speech recognition
-pyttsx
-os
-wikipedia
-pywhatkit
-and lot more, just go through the code......
+
+1.speech recognition
+2.pyttsx
+3.os
+4.wikipedia
+5.pywhatkit
+6.and lot more, just go through the code......
 
 
 I just named it, Stark. The user can say the task with or without including the name of stark, but without including that name, the system say please include my name. Because its sensitive 😁 😁 😁 😁 
