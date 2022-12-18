@@ -8,10 +8,15 @@ This type of speech recognition system is very simple one and also most useful f
 To use this speech recognition system you have instal all this python packages.
 
 1.speech recognition
+
 2.pyttsx
+
 3.os
+
 4.wikipedia
+
 5.pywhatkit
+
 6.and lot more, just go through the code......
 
 
